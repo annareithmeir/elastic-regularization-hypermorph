@@ -1,5 +1,9 @@
 # elastic-regularization-hypermorph
 
+
+![image](spie-visual-abstract.png)
+
+
 Code for **"Learning Physics-Inspired Regularization for Medical Image Registration with Hypernetworks"**
 *Anna Reithmeir, Julia A. Schnabel, Veronika A. Zimmer* — SPIE Medical Imaging 2024
 **Finalist, Robert F. Wagner Best Student Paper Award**
@@ -77,5 +81,4 @@ Builds on [Voxelmorph](https://github.com/voxelmorph/voxelmorph) / [HyperMorph](
 
 ## License
 
-<!-- Add a LICENSE file to the repo (MIT recommended) and a badge here, e.g.: -->
-<!-- [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE) -->
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
