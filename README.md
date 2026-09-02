@@ -10,6 +10,8 @@ Code for **"Learning Physics-Inspired Regularization for Medical Image Registrat
 
 [Paper (DOI)](https://doi.org/10.1117/12.3006539) · [arXiv](https://arxiv.org/abs/2311.08239)
 
+**Keywords:** Linear Elasticity · Hypernetworks· Test-Time Adaptive Regularization
+
 ## Overview
 
 Physics-inspired regularizers (e.g. linear-elastic, diffusion) are widely used in deformable medical image registration because they encourage anatomically plausible deformation fields. In practice, though, the physical parameters that control them (such as tissue elasticity) are usually fixed by hand and tuned per dataset. This repo implements a **hypernetwork-based approach** that learns to predict these regularization parameters directly from data, removing the need for manual tuning and retraining when the desired regularization strength changes.
